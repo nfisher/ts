@@ -1,4 +1,5 @@
-# ts
+ts
+==
 
 ts is inspired by the moreutils ts command of the same name. It is used to prepend
 timestamps to line output received on stdin. It was developed to coursely profile
